@@ -917,7 +917,8 @@ section {
 
 #footer .footer-top {
     padding: 60px 0 30px 0;
-    background: #272343;
+    /* background: #272343; */
+    background: black;
 }
 
 #footer .footer-top .footer-info {
